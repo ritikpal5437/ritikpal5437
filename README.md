@@ -9,15 +9,10 @@
 - 🗄️ Working with MySQL & SQL
 - 🔧 Using Git & GitHub for version control
 - 🎯 Focused on building strong development skills
-
-- #### "Great things are built one line of code at a time.
-
 ---
-
 <h2>🛠️ Tech Stack</h2>
 
 <h3>💻 Languages</h3>
-
 <p>
 <img src="https://skillicons.dev/icons?i=java" width="60">
 <img src="https://skillicons.dev/icons?i=js" width="60">
