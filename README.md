@@ -16,7 +16,7 @@
 
 🛠️ Tech Stack
 
-💻 Languages
+##### 💻 Languages
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -50,17 +50,18 @@
 
 ---
 
-🤝 Connect With Me
+[11:17 pm, 13/08/2026] Ritik Pal: <h2>🤝 Connect With Me</h2>
 
-
-<p align="left"><a href="https://github.com/ritikpal5437">
-<img src="https://img.shields.io/badge/GitHub-ritikpal5437-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a><br>
-<a href="https://www.linkedin.com/in/ritik-pal-7252a836a?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img
-  src="https://img.shields.io/badge/LinkedIn-ritikpal5437-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a><br>
+<p>
+  <a href="https://github.com/ritikpal5437">
+    <img src="https://skillicons.dev/icons?i=github" width="55" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ritik-pal-7252a836a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+  </a>
+  &nbsp;&nbsp;
   <a href="mailto:ritikpal5437@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-ritikpal5437-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a></p>
-💡 Code. Learn. Build. Repeat. 🚀
+    <img src="https://skillicons.dev/icons?i=gmail" width="55" />
+  </a>
+</p>
