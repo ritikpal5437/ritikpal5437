@@ -10,6 +10,8 @@ I'm an MCA student focused on becoming a Java Full Stack Developer and building 
 - 🔧 Using Git & GitHub for version control
 - 🎯 Focused on building strong development skills
 
+- <bold>"Great things are built one line of code at a time."</bold>
+
 ---
 
 🛠️ Tech Stack
