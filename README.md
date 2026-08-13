@@ -1,8 +1,8 @@
-#👋 Hi, I'm Ritik Pal
+# 👋 Hi, I'm Ritik Pal
 
-##☕ Java Full Stack Developer | 🚀 Building Real-World Applications
+## ☕ Java Full Stack Developer | 🚀 Building Real-World Applications
 
-###I'm an MCA student focused on becoming a Java Full Stack Developer and building practical web applications.
+### I'm an MCA student focused on becoming a Java Full Stack Developer and building practical web applications.
 
 - 🌱 Currently learning Spring Boot & React
 - 💻 Interested in Java, Backend Development & Web Development
@@ -10,7 +10,7 @@
 - 🔧 Using Git & GitHub for version control
 - 🎯 Focused on building strong development skills
 
-- ####"Great things are built one line of code at a time.
+- #### "Great things are built one line of code at a time.
 
 ---
 
