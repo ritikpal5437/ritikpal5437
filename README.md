@@ -56,11 +56,11 @@
 <p align="left"><a href="https://github.com/ritikpal5437">
 <img src="https://img.shields.io/badge/GitHub-ritikpal5437-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a><br>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/ritik-pal-7252a836a?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img
   src="https://img.shields.io/badge/LinkedIn-ritikpal5437-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a><br>
-  <a href="mailto:YOUR_GMAIL_ADDRESS">
+  <a href="mailto:ritikpal5437@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-ritikpal5437-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a></p>
 💡 Code. Learn. Build. Repeat. 🚀
