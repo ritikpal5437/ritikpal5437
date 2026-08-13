@@ -58,10 +58,12 @@ I'm an MCA student focused on becoming a Java Full Stack Developer and building 
 
 🤝 Connect With Me
 
-<p>
-<a href="https://github.com/ritikpal5437">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>---
 
+<p align="left"><a href="https://github.com/ritikpal5437">
+<img src="https://img.shields.io/badge/GitHub-ritikpal5437-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a><a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-ritikpal5437-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a><a href="mailto:YOUR_GMAIL_ADDRESS">
+<img src="https://img.shields.io/badge/Gmail-ritikpal5437-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a></p>
 💡 Code. Learn. Build. Repeat. 🚀
