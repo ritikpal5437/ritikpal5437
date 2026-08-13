@@ -50,7 +50,7 @@
   <a href="https://github.com/ritikpal5437">
     <img src="https://skillicons.dev/icons?i=github" width="55" />
   </a>
-  
+  &nbsp;&nbsp;  
   <a href="https://www.linkedin.com/in/ritik-pal-7252a836a/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
   </a>
