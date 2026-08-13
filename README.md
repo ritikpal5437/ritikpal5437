@@ -55,9 +55,12 @@
 
 <p align="left"><a href="https://github.com/ritikpal5437">
 <img src="https://img.shields.io/badge/GitHub-ritikpal5437-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a><a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-ritikpal5437-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a><a href="mailto:YOUR_GMAIL_ADDRESS">
+</a><br>
+<a href="YOUR_LINKEDIN_URL">
+<img
+  src="https://img.shields.io/badge/LinkedIn-ritikpal5437-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a><br>
+  <a href="mailto:YOUR_GMAIL_ADDRESS">
 <img src="https://img.shields.io/badge/Gmail-ritikpal5437-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a></p>
 💡 Code. Learn. Build. Repeat. 🚀
