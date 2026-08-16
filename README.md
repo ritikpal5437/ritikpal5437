@@ -6,7 +6,7 @@
 
 
 - 🌱 Currently learning Spring Boot & React
-- 💻 Interested in Java, Backend Development & Web Development
+- 💻 Interested in Java, Backend & Web Development
 - 🗄️ Working with MySQL & SQL
 - 🔧 Using Git & GitHub for version control
 #### 🤝 Connect With Me
