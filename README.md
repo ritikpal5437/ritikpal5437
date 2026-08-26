@@ -52,4 +52,4 @@
 Next: REST APIs • Spring Security • JWT • JPA • Postman • JUnit/Mockito
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
