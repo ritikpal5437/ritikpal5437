@@ -49,7 +49,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="Hibernate" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </p>
-Next: REST APIs • Spring Security • JWT • JPA • Postman • JUnit/Mockito
+Next: REST APIs • Spring Security • JWT • JPA • Postman • JUnit/Mockito<br><br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-### Top Contributed Repo
+![](https://streak-stats.demolab.com/?user=ritikpal5437&theme=dark&hide_border=false)
