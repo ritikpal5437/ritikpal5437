@@ -51,4 +51,4 @@
 </p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-![](https://streak-stats.demolab.com/?user=ritikpal5437&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=nitindhyani01&theme=dark&hide_border=false)
